@@ -3,4 +3,10 @@ $(document).ready(function() {
     $(".cardfront01").toggle();
     $(".cardback01").toggle();   
   });
+
+  $(".clickable02").click(function() {
+    $(".cardfront02").toggle();
+    $(".cardback02").toggle();   
+  });
+
 });
