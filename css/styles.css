@@ -8,7 +8,17 @@
   height: 200px;
 }
 
+.box2 {
+  margin: 12px;
+  border: 2px solid black;
+  padding: 4px;
+  background-color: whitesmoke;
+  box-sizing: border-box;
+  width: 150px;
+  height: 200px;
+}
+
 .container {
-  width: 70%;
+  width: 700px;
   
 }
