@@ -1,21 +1,21 @@
 
-.clickable {
+.clickable01 {
   cursor: pointer;
   color: #0088cc;
 }
 
-.clickable:hover {
+.clickable01:hover {
   text-decoration: underline;
 }
 
-.boxfront {
+.cardfront01 {
   width: 150px;
   height: 200px;
   background-color: lightskyblue;
   text-align: center;
 }
 
-.boxback {
+.cardback01 {
   width: 150px;
   height: 200px;
   background-color: lightgray;

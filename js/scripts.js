@@ -1,6 +1,6 @@
 $(document).ready(function() {
-  $(".clickable").click(function() {
-    $(".boxfront").toggle();
-    $(".boxback").toggle();   
+  $(".clickable01").click(function() {
+    $(".cardfront01").toggle();
+    $(".cardback01").toggle();   
   });
 });
