@@ -1,0 +1,11 @@
+.box {
+  margin: 12px;
+  border: 2px solid black;
+  padding: 4px;
+  background-color: lightgrey;
+  box-sizing: border-box;
+}
+
+.container {
+  width: 70%;
+}
