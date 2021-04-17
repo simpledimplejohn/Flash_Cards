@@ -1,16 +1,26 @@
-.box {
-  margin: 12px;
-  border: 2px solid black;
-  padding: 4px;
-  background-color: lightgrey;
-  box-sizing: border-box;
-  width: 150px;
-  height: 200px;
+
+.walrus-showing {
+  display: none;
 }
 
+.clickable {
+  cursor: pointer;
+  color: #0088cc;
+}
 
+.clickable:hover {
+  text-decoration: underline;
+}
 
-.container {
-  width: 700px;
-  
+.boxfront {
+  width: 150px;
+  height: 200px;
+  background-color: lightskyblue;
+}
+
+.boxback {
+  width: 150px;
+  height: 200px;
+  background-color: lightgray;
+  display: none;
 }
