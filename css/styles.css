@@ -8,6 +8,15 @@
   text-decoration: underline;
 }
 
+
+.clickable02 {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickable02:hover {
+  text-decoration: underline;
+}
 .cardfront01 {
   width: 150px;
   height: 200px;
