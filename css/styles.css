@@ -4,8 +4,11 @@
   padding: 4px;
   background-color: lightgrey;
   box-sizing: border-box;
+  width: 150px;
+  height: 200px;
 }
 
 .container {
   width: 70%;
+  
 }
