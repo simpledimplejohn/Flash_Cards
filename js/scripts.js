@@ -1,7 +1,10 @@
 $(document).ready(function() {
 
   $("#one").click(function() {
-    $("p").prepend("<p>one</p>");
+    $("#one").prepend("<p>one</p>");
+    $("box").removeClass();
+    $("box").addClass("white-background")
+
   })
 
 })
