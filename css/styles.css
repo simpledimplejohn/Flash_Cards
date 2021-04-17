@@ -1,3 +1,9 @@
+.container {
+  width: 70%;
+  background-color:whitesmoke;
+}
+
+/*---------------POINTER---------------------------*/
 
 .clickable01 {
   cursor: pointer;
@@ -17,11 +23,18 @@
 .clickable02:hover {
   text-decoration: underline;
 }
+
+/*-----------------CARDS-------------------------*/
+
 .cardfront01 {
+  margin: 12px;
+  border: 2px solid black;
+  padding: 4px;
   width: 150px;
   height: 200px;
   background-color: lightskyblue;
   text-align: center;
+  box-sizing: border-box
 }
 
 .cardback01 {
@@ -29,6 +42,10 @@
   height: 200px;
   background-color: lightgray;
   text-align: center;
+  margin: 12px;
+  border: 2px solid black;
+  padding: 4px;
+  box-sizing: border-box;
   display: none;
 }
 
@@ -37,6 +54,10 @@
   height: 200px;
   background-color: lightskyblue;
   text-align: center;
+  margin: 12px;
+  border: 2px solid black;
+  padding: 4px;
+  box-sizing: border-box;
 }
 
 .cardback02 {
@@ -44,5 +65,9 @@
   height: 200px;
   background-color: lightgray;
   text-align: center;
+  margin: 12px;
+  border: 2px solid black;
+  padding: 4px;
+  box-sizing: border-box;
   display: none;
 }
