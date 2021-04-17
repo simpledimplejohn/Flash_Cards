@@ -19,4 +19,24 @@ $(document).ready(function() {
     $(".cardback04").toggle();   
   });
 
+  $(".clickable05").click(function() {
+    $(".cardfront05").toggle();
+    $(".cardback05").toggle();   
+  });
+
+  $(".clickable06").click(function() {
+    $(".cardfront06").toggle();
+    $(".cardback06").toggle();   
+  });
+
+  $(".clickable07").click(function() {
+    $(".cardfront07").toggle();
+    $(".cardback07").toggle();   
+  });
+
+  $(".clickable08").click(function() {
+    $(".cardfront08").toggle();
+    $(".cardback08").toggle();   
+  });
+
 });

@@ -41,6 +41,41 @@
   text-decoration: underline;
 }
 
+.clickable05 {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickable05:hover {
+  text-decoration: underline;
+}
+
+.clickable06 {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickable06:hover {
+  text-decoration: underline;
+}
+
+.clickable07 {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickable07:hover {
+  text-decoration: underline;
+}
+
+.clickable08 {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickable08:hover {
+  text-decoration: underline;
+}
 /*-----------------CARDS-------------------------*/
 
 .cardfront01 {
@@ -123,6 +158,97 @@
 }
 
 .cardback04 {
+  width: 150px;
+  height: 200px;
+  background-color: lightgray;
+  text-align: center;
+  margin: 12px;
+  border: 2px solid black;
+  padding: 4px;
+  box-sizing: border-box;
+  display: none;
+}
+
+.cardfront05 {
+  margin: 12px;
+  border: 2px solid black;
+  padding: 4px;
+  width: 150px;
+  height: 200px;
+  background-color: lightskyblue;
+  text-align: center;
+  box-sizing: border-box
+}
+
+.cardback05 {
+  width: 150px;
+  height: 200px;
+  background-color: lightgray;
+  text-align: center;
+  margin: 12px;
+  border: 2px solid black;
+  padding: 4px;
+  box-sizing: border-box;
+  display: none;
+}
+
+.cardfront06 {
+  width: 150px;
+  height: 200px;
+  background-color: lightskyblue;
+  text-align: center;
+  margin: 12px;
+  border: 2px solid black;
+  padding: 4px;
+  box-sizing: border-box;
+}
+
+.cardback06 {
+  width: 150px;
+  height: 200px;
+  background-color: lightgray;
+  text-align: center;
+  margin: 12px;
+  border: 2px solid black;
+  padding: 4px;
+  box-sizing: border-box;
+  display: none;
+}
+
+.cardfront07 {
+  width: 150px;
+  height: 200px;
+  background-color: lightskyblue;
+  text-align: center;
+  margin: 12px;
+  border: 2px solid black;
+  padding: 4px;
+  box-sizing: border-box;
+}
+
+.cardback07 {
+  width: 150px;
+  height: 200px;
+  background-color: lightgray;
+  text-align: center;
+  margin: 12px;
+  border: 2px solid black;
+  padding: 4px;
+  box-sizing: border-box;
+  display: none;
+
+}.cardfront08 {
+  width: 150px;
+  height: 200px;
+  background-color: lightskyblue;
+  text-align: center;
+  margin: 12px;
+  border: 2px solid black;
+  padding: 4px;
+  box-sizing: border-box;
+}
+
+.cardback08 {
   width: 150px;
   height: 200px;
   background-color: lightgray;
