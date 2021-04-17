@@ -14,13 +14,30 @@
   text-decoration: underline;
 }
 
-
 .clickable02 {
   cursor: pointer;
   color: #0088cc;
 }
 
 .clickable02:hover {
+  text-decoration: underline;
+}
+
+.clickable03 {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickable03:hover {
+  text-decoration: underline;
+}
+
+.clickable04 {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickable04:hover {
   text-decoration: underline;
 }
 
@@ -61,6 +78,51 @@
 }
 
 .cardback02 {
+  width: 150px;
+  height: 200px;
+  background-color: lightgray;
+  text-align: center;
+  margin: 12px;
+  border: 2px solid black;
+  padding: 4px;
+  box-sizing: border-box;
+  display: none;
+}
+
+.cardfront03 {
+  width: 150px;
+  height: 200px;
+  background-color: lightskyblue;
+  text-align: center;
+  margin: 12px;
+  border: 2px solid black;
+  padding: 4px;
+  box-sizing: border-box;
+}
+
+.cardback03 {
+  width: 150px;
+  height: 200px;
+  background-color: lightgray;
+  text-align: center;
+  margin: 12px;
+  border: 2px solid black;
+  padding: 4px;
+  box-sizing: border-box;
+  display: none;
+
+}.cardfront04 {
+  width: 150px;
+  height: 200px;
+  background-color: lightskyblue;
+  text-align: center;
+  margin: 12px;
+  border: 2px solid black;
+  padding: 4px;
+  box-sizing: border-box;
+}
+
+.cardback04 {
   width: 150px;
   height: 200px;
   background-color: lightgray;

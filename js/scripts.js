@@ -9,4 +9,14 @@ $(document).ready(function() {
     $(".cardback02").toggle();   
   });
 
+  $(".clickable03").click(function() {
+    $(".cardfront03").toggle();
+    $(".cardback03").toggle();   
+  });
+
+  $(".clickable04").click(function() {
+    $(".cardfront04").toggle();
+    $(".cardback04").toggle();   
+  });
+
 });
